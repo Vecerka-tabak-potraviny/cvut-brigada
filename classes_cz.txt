@@ -1,0 +1,1000 @@
+0: tench - lín
+1: goldfish - zlatá rybka
+2: great white shark - velký bílý žralok
+3: tiger shark - tygří žralok
+4: hammerhead - kladivoun
+5: electric ray - elektrický paprsek
+6: stingray - rejnok
+7: cock - kohout
+8: hen - slepice
+9: ostrich - pštros
+10: brambling - brambling
+11: goldfinch - stehlík
+12: house finch - pěnkava domácí
+13: junco - junco
+14: indigo bunting - strnad indigový
+15: robin - červenka
+16: bulbul - bulbul
+17: jay - sojka
+18: magpie - straka
+19: chickadee - americký ptáček
+20: water ouzel - vodní ouzel
+21: kite - papírový drak
+22: bald eagle - orel bělohlavý
+23: vulture - sup
+24: great grey owl - velká šedá sova
+25: European fire salamander - Evropský mlok ohnivý
+26: common newt - čolek obecný
+27: eft - eft
+28: spotted salamander - salamandr skvrnitý
+29: axolotl - axolotl
+30: bullfrog - skokan volský
+31: tree frog - rosnička
+32: tailed frog - ocasá žába
+33: loggerhead - hlupák
+34: leatherback turtle - želva kožená
+35: mud turtle - bahenní želva
+36: terrapin - želva bahenní
+37: box turtle - krabicová želva
+38: banded gecko - gekon pruhovaný
+39: common iguana - leguán obecný
+40: American chameleon - Americký chameleon
+41: whiptail - bičíkovec
+42: agama - agama
+43: frilled lizard - ještěrka řasená
+44: alligator lizard - ještěrka aligátor
+45: Gila monster - Gila monstrum
+46: green lizard - ještěrka zelená
+47: African chameleon - Africký chameleon
+48: Komodo dragon - varan komodský
+49: African crocodile - Africký krokodýl
+50: American alligator - Americký aligátor
+51: triceratops - triceratops
+52: thunder snake - hromový had
+53: ringneck snake - kruhový had
+54: hognose snake - hognose had
+55: green snake - zelený had
+56: king snake - královský had
+57: garter snake - podvazkový had
+58: water snake - vodní had
+59: vine snake - vinný had
+60: night snake - noční had
+61: boa constrictor - hroznýš
+62: rock python - skalní krajta
+63: Indian cobra - Indická kobra
+64: green mamba - zelená mamba
+65: sea snake - mořský had
+66: horned viper - zmije rohatá
+67: diamondback - diamantový hřbet
+68: sidewinder - sidewinder
+69: trilobite - trilobit
+70: harvestman - kombajn
+71: scorpion - Štír
+72: black and gold garden spider - černý a zlatý zahradní pavouk
+73: barn spider - stodolový pavouk
+74: garden spider - zahradní pavouk
+75: black widow - černá vdova
+76: tarantula - tarantule
+77: wolf spider - vlčí pavouk
+78: tick - klíště
+79: centipede - stonožka
+80: black grouse - tetřívek obecný
+81: ptarmigan - ptarmigan
+82: ruffed grouse - tetřev načesaný
+83: prairie chicken - prérijní kuře
+84: peacock - páv
+85: quail - křepelka
+86: partridge - koroptev
+87: African grey - Africká šedá
+88: macaw - ara
+89: sulphur-crested cockatoo - kakadu sírově chocholatý
+90: lorikeet - papoušek
+91: coucal - coucal
+92: bee eater - požírač včel
+93: hornbill - zoborožec
+94: hummingbird - kolibřík
+95: jacamar - jacamar
+96: toucan - tukan
+97: drake - kačer
+98: red-breasted merganser - morčák rudoprsý
+99: goose - husa
+100: black swan - černá labuť
+101: tusker - tusker
+102: echidna - echidna
+103: platypus - ptakopysk
+104: wallaby - valaška
+105: koala - koala
+106: wombat - wombat
+107: jellyfish - medúza
+108: sea anemone - mořská sasanka
+109: brain coral - mozkový korál
+110: flatworm - ploštěnka
+111: nematode - háďátko
+112: conch - ulita
+113: snail - šnek
+114: slug - slimák
+115: sea slug - mořský slimák
+116: chiton - chiton
+117: chambered nautilus - komorový nautilus
+118: Dungeness crab - Dungeness krab
+119: rock crab - skalní krab
+120: fiddler crab - krab bojovný
+121: king crab - královský krab
+122: American lobster - Americký humr
+123: spiny lobster - humr ostnatý
+124: crayfish - rak
+125: hermit crab - kraba poustevníka
+126: isopod - stejnonožec
+127: white stork - čáp bílý
+128: black stork - čáp černý
+129: spoonbill - lžička
+130: flamingo - plameňák
+131: little blue heron - malá modrá volavka
+132: American egret - volavka americká
+133: bittern - hořce
+134: crane - jeřáb
+135: limpkin - limpkin
+136: European gallinule - Evropská galinule
+137: American coot - Lyska americká
+138: bustard - drop
+139: ruddy turnstone - rudý turnstone
+140: red-backed sandpiper - jespák červenohřbetý
+141: redshank - redshank
+142: dowitcher - dowitcher
+143: oystercatcher - ústřičník
+144: pelican - pelikán
+145: king penguin - tučňák královský
+146: albatross - albatros
+147: grey whale - šedá velryba
+148: killer whale - kosatka
+149: dugong - dugong
+150: sea lion - lachtan
+151: Chihuahua - čivava
+152: Japanese spaniel - Japonský španěl
+153: Maltese dog - Maltézský pes
+154: Pekinese - pekingský
+155: Shih-Tzu - Shih-Tzu
+156: Blenheim spaniel - Blenheim španěl
+157: papillon - papillon
+158: toy terrier - toy teriér
+159: Rhodesian ridgeback - Rhodéský ridgeback
+160: Afghan hound - Afghánský chrt
+161: basset - baset
+162: beagle - beagle
+163: bloodhound - bloodhound
+164: bluetick - bluetick
+165: black-and-tan coonhound - černohnědý coonhound
+166: Walker hound - Walker honič
+167: English foxhound - Anglický foxhound
+168: redbone - redbone
+169: borzoi - barzoj
+170: Irish wolfhound - Irský vlkodav
+171: Italian greyhound - Italský chrtík
+172: whippet - ohař
+173: Ibizan hound - Ibizský chrt
+174: Norwegian elkhound - Norský elkhound
+175: otterhound - otterhound
+176: Saluki - saluki
+177: Scottish deerhound - Skotský deerhound
+178: Weimaraner - Výmarský ohař
+179: Staffordshire bullterrier - Stafordšírský bulteriér
+180: American Staffordshire terrier - Americký stafordšírský teriér
+181: Bedlington terrier - Bedlingtonský teriér
+182: Border terrier - Border teriér
+183: Kerry blue terrier - Kerry blue teriér
+184: Irish terrier - Irský teriér
+185: Norfolk terrier - Norfolk teriér
+186: Norwich terrier - Norwichský teriér
+187: Yorkshire terrier - Jorkšírský teriér
+188: wire-haired fox terrier - drátosrstý foxteriér
+189: Lakeland terrier - Lakeland teriér
+190: Sealyham terrier - Sealyhamský teriér
+191: Airedale - Airedale
+192: cairn - mohyla
+193: Australian terrier - Australský teriér
+194: Dandie Dinmont - Dandie Dinmont
+195: Boston bull - Bostonský býk
+196: miniature schnauzer - malý knírač
+197: giant schnauzer - obří knírač
+198: standard schnauzer - standardní knírač
+199: Scotch terrier - Skotský teriér
+200: Tibetan terrier - Tibetský teriér
+201: silky terrier - hedvábný teriér
+202: soft-coated wheaten terrier - měkkosrstý pšeničný teriér
+203: West Highland white terrier - West highland white teriér
+204: Lhasa - Lhasa
+205: flat-coated retriever - flat-coated retrívr
+206: curly-coated retriever - curly-coated retrívr
+207: golden retriever - zlatý retrívr
+208: Labrador retriever - Labradorský retrívr
+209: Chesapeake Bay retriever - Chesapeake Bay retrívr
+210: German short-haired pointer - Německý krátkosrstý ohař
+211: vizsla - vizsla
+212: English setter - anglický setr
+213: Irish setter - Irský setr
+214: Gordon setter - Gordon setr
+215: Brittany spaniel - Brittany španěl
+216: clumber - clumber
+217: English springer - Anglický špringr
+218: Welsh springer spaniel - Velšský špringršpaněl
+219: cocker spaniel - kokršpaněl
+220: Sussex spaniel - Sussex španěl
+221: Irish water spaniel - Irský vodní španěl
+222: kuvasz - kuvasz
+223: schipperke - schipperke
+224: groenendael - groenendael
+225: malinois - malinois
+226: briard - briard
+227: kelpie - kelpie
+228: komondor - komondor
+229: Old English sheepdog - Starý anglický ovčácký pes
+230: Shetland sheepdog - Shetlandský ovčák
+231: collie - kolie
+232: Border collie - Border kolie
+233: Bouvier des Flandres - Bouvier des Flandres
+234: Rottweiler - rotvajler
+235: German shepherd - německý ovčák
+236: Doberman - dobrman
+237: miniature pinscher - miniaturní pinč
+238: Greater Swiss Mountain dog - Velký švýcarský salašnický pes
+239: Bernese mountain dog - Bernský salašnický pes
+240: Appenzeller - Appenzeller
+241: EntleBucher - EntleBucher
+242: boxer - boxer
+243: bull mastiff - býčí doga
+244: Tibetan mastiff - Tibetská doga
+245: French bulldog - Francouzský buldoček
+246: Great Dane - německá doga
+247: Saint Bernard - bernardýn
+248: Eskimo dog - Eskymácký pes
+249: malamute - malamut
+250: Siberian husky - Sibiřský husky
+251: dalmatian - dalmatin
+252: affenpinscher - affenpinscher
+253: basenji - basenji
+254: pug - mopslík
+255: Leonberg - Leonberg
+256: Newfoundland - Newfoundland
+257: Great Pyrenees - Velké Pyreneje
+258: Samoyed - Samojed
+259: Pomeranian - pomeranian
+260: chow - čau
+261: keeshond - keeshond
+262: Brabancon griffon - Brabancon grifonek
+263: Pembroke - Pembroke
+264: Cardigan - Svetr
+265: toy poodle - toy pudl
+266: miniature poodle - miniaturní pudl
+267: standard poodle - standardní pudl
+268: Mexican hairless - Mexický bezsrstý
+269: timber wolf - dřevo vlk
+270: white wolf - bílý vlk
+271: red wolf - červený vlk
+272: coyote - kojot
+273: dingo - dingo
+274: dhole - dhole
+275: African hunting dog - Africký lovecký pes
+276: hyena - hyena
+277: red fox - červená liška
+278: kit fox - kit liška
+279: Arctic fox - Polární liška
+280: grey fox - šedá liška
+281: tabby - mourek
+282: tiger cat - tygří kočka
+283: Persian cat - perská kočka
+284: Siamese cat - Siamská kočka
+285: Egyptian cat - egyptská kočka
+286: cougar - puma
+287: lynx - rys
+288: leopard - leopard
+289: snow leopard - sněžný leopard
+290: jaguar - jaguár
+291: lion - lev
+292: tiger - tygr
+293: cheetah - gepard
+294: brown bear - medvěd hnědý
+295: American black bear - Americký černý medvěd
+296: ice bear - lední medvěd
+297: sloth bear - lenochod medvěd
+298: mongoose - mangusta
+299: meerkat - surikata
+300: tiger beetle - tygr brouk
+301: ladybug - slunéčko sedmitečné
+302: ground beetle - střevlík
+303: long-horned beetle - dlouhorohého brouka
+304: leaf beetle - insekt
+305: dung beetle - hnojník
+306: rhinoceros beetle - nosorožec brouk
+307: weevil - nosatce
+308: fly - létat
+309: bee - včela
+310: ant - mravenec
+311: grasshopper - saranče
+312: cricket - kriket
+313: walking stick - vycházková hůl
+314: cockroach - šváb
+315: mantis - kudlanka
+316: cicada - cikáda
+317: leafhopper - listonohý
+318: lacewing - lacewing
+319: dragonfly - vážka
+320: damselfly - damselfly
+321: admiral - admirál
+322: ringlet - prstýnek
+323: monarch - monarcha
+324: cabbage butterfly - bílý motýl
+325: sulphur butterfly - sirný motýl
+326: lycaenid - lycaenid
+327: starfish - hvězdice
+328: sea urchin - mořský ježek
+329: sea cucumber - mořská okurka
+330: wood rabbit - dřevěný králík
+331: hare - zajíc
+332: Angora - Angora
+333: hamster - křeček
+334: porcupine - dikobraz
+335: fox squirrel - liščí veverka
+336: marmot - svišť
+337: beaver - bobr
+338: guinea pig - morče
+339: sorrel - šťovík
+340: zebra - zebra
+341: hog - prase
+342: wild boar - divočák
+343: warthog - prase bradavičnaté
+344: hippopotamus - hroch
+345: ox - vůl
+346: water buffalo - vodní buvol
+347: bison - bizon
+348: ram - beran
+349: bighorn - bighorn
+350: ibex - kozorožec
+351: hartebeest - hartebeest
+352: impala - impala
+353: gazelle - gazela
+354: Arabian camel - Arabský velbloud
+355: llama - lama
+356: weasel - lasička
+357: mink - norek
+358: polecat - tchoř
+359: black-footed ferret - fretka černonohá
+360: otter - vydra
+361: skunk - skunk
+362: badger - jezevec
+363: armadillo - pásovec
+364: three-toed sloth - lenochod tříprstý
+365: orangutan - orangutan
+366: gorilla - gorila
+367: chimpanzee - šimpanz
+368: gibbon - gibbon
+369: siamang - siamang
+370: guenon - guenon
+371: patas - patas
+372: baboon - pavián
+373: macaque - makak
+374: langur - langur
+375: colobus - colobus
+376: proboscis monkey - proboscis opice
+377: marmoset - kočkodan
+378: capuchin - kapucín
+379: howler monkey - vřešťana
+380: titi - titi
+381: spider monkey - pavoučí opice
+382: squirrel monkey - veverka opice
+383: Madagascar cat - Madagaskarská kočka
+384: indri - indri
+385: Indian elephant - indický slon
+386: African elephant - Africký slon
+387: lesser panda - panda malá
+388: giant panda - velká panda
+389: barracouta - barracouta
+390: eel - úhoř
+391: coho - coho
+392: rock beauty - rocková krása
+393: anemone fish - sasanková ryba
+394: sturgeon - jeseter
+395: gar - gar
+396: lionfish - perutýn
+397: puffer - puffer
+398: abacus - počitadlo
+399: abaya - abája
+400: academic gown - akademický plášť
+401: accordion - akordeon
+402: acoustic guitar - akustická kytara
+403: aircraft carrier - letadlová loď
+404: airliner - dopravní letadlo
+405: airship - vzducholoď
+406: altar - oltář
+407: ambulance - ambulance
+408: amphibian - obojživelník
+409: analog clock - analogové hodiny
+410: apiary - včelín
+411: apron - zástěra
+412: ashcan - popelník
+413: assault rifle - útočná puška
+414: backpack - batoh
+415: bakery - pekárna
+416: balance beam - kladina
+417: balloon - balón
+418: ballpoint - propiska
+419: Band Aid - Band Aid
+420: banjo - bendžo
+421: bannister - zábradlí
+422: barbell - činka
+423: barber chair - holičské křeslo
+424: barbershop - holičství
+425: barn - stodola
+426: barometer - barometr
+427: barrel - hlaveň
+428: barrow - kolečko
+429: baseball - baseball
+430: basketball - basketball
+431: bassinet - kočárek
+432: bassoon - fagot
+433: bathing cap - koupací čepice
+434: bath towel - osuška
+435: bathtub - vana
+436: beach wagon - plážový vůz
+437: beacon - maják
+438: beaker - kádinka
+439: bearskin - medvědí kůže
+440: beer bottle - pivní láhev
+441: beer glass - pivní sklenice
+442: bell cote - bell cote
+443: bib - bryndáček
+444: bicycle-built-for-two - kolo stavěné pro dva
+445: bikini - bikiny
+446: binder - pořadač
+447: binoculars - dalekohled
+448: birdhouse - ptačí budka
+449: boathouse - loděnice
+450: bobsled - bobová dráha
+451: bolo tie - bolo kravata
+452: bonnet - kapota
+453: bookcase - knihovna
+454: bookshop - knihkupectví
+455: bottlecap - uzávěr na láhev
+456: bow - luk
+457: bow tie - motýlek
+458: brass - mosaz
+459: brassiere - podprsenka
+460: breakwater - vlnolam
+461: breastplate - náprsník
+462: broom - koště
+463: bucket - vědro
+464: buckle - přezka
+465: bulletproof vest - neprůstřelná vesta
+466: bullet train - kulový vlak
+467: butcher shop - řeznictví
+468: cab - kabina
+469: caldron - kotel
+470: candle - svíčka
+471: cannon - dělo
+472: canoe - kánoe
+473: can opener - otvírák na konzervy
+474: cardigan - svetr
+475: car mirror - zrcátko do auta
+476: carousel - kolotoč
+477: carpenter's kit - truhlářská souprava
+478: carton - lepenková krabice
+479: car wheel - kolo auta
+480: cash machine - bankomat
+481: cassette - kazeta
+482: cassette player - kazetový přehrávač
+483: castle - hrad
+484: catamaran - katamarán
+485: CD player - CD přehrávač
+486: cello - cello
+487: cellular telephone - mobilní telefon
+488: chain - řetěz
+489: chainlink fence - drátěný plot
+490: chain mail - řetězová pošta
+491: chain saw - řetězová pila
+492: chest - truhla
+493: chiffonier - skříňka
+494: chime - rozeznít
+495: china cabinet - čínská skříň
+496: Christmas stocking - Vánoční punčocha
+497: church - kostel
+498: cinema - kino
+499: cleaver - sekáček
+500: cliff dwelling - skalní obydlí
+501: cloak - plášť
+502: clog - dřevák
+503: cocktail shaker - koktejlový šejkr
+504: coffee mug - hrnek na kávu
+505: coffeepot - kávová konvice
+506: coil - cívka
+507: combination lock - kombinační zámek
+508: computer keyboard - klávesnice počítače
+509: confectionery - cukrovinky
+510: container ship - kontejnerová loď
+511: convertible - konvertibilní
+512: corkscrew - vývrtka
+513: cornet - kornet
+514: cowboy boot - kovbojská bota
+515: cowboy hat - kovbojský klobouk
+516: cradle - kolébka
+517: crane - jeřáb
+518: crash helmet - přilba
+519: crate - bedna
+520: crib - betlém
+521: Crock Pot - Crock Pot
+522: croquet ball - kroketová koule
+523: crutch - berle
+524: cuirass - kyrys
+525: dam - přehrada
+526: desk - stůl
+527: desktop computer - stolní počítač
+528: dial telephone - vytáčet telefon
+529: diaper - plena
+530: digital clock - digitální hodiny
+531: digital watch - digitální hodinky
+532: dining table - jídelní stůl
+533: dishrag - hadr na nádobí
+534: dishwasher - myčka nádobí
+535: disk brake - kotoučová brzda
+536: dock - dok
+537: dogsled - psí spřežení
+538: dome - kupole
+539: doormat - rohožka
+540: drilling platform - vrtací plošina
+541: drum - buben
+542: drumstick - palička
+543: dumbbell - činka
+544: Dutch oven - Holandská trouba
+545: electric fan - ventilátor
+546: electric guitar - elektrická kytara
+547: electric locomotive - elektrická lokomotiva
+548: entertainment center - zábavní centrum
+549: envelope - obálka
+550: espresso maker - kávovar na espresso
+551: face powder - pudr na obličej
+552: feather boa - péřový boa
+553: file - soubor
+554: fireboat - hasičský člun
+555: fire engine - hasičská stříkačka
+556: fire screen - požární clona
+557: flagpole - stožár
+558: flute - flétna
+559: folding chair - skládací židle
+560: football helmet - fotbalová helma
+561: forklift - vysokozdvižný vozík
+562: fountain - kašna
+563: fountain pen - plnicí pero
+564: four-poster - čtyř plakát
+565: freight car - nákladní vůz
+566: French horn - lesní roh
+567: frying pan - pánev
+568: fur coat - kožich
+569: garbage truck - popelářský vůz
+570: gasmask - plynová maska
+571: gas pump - plynové čerpadlo
+572: goblet - pohár
+573: go-kart - motokára
+574: golf ball - golfový míček
+575: golfcart - golfový vozík
+576: gondola - gondola
+577: gong - gong
+578: gown - talár
+579: grand piano - křídlo
+580: greenhouse - skleník
+581: grille - mřížka
+582: grocery store - obchod s potravinami
+583: guillotine - gilotina
+584: hair slide - skluzavka na vlasy
+585: hair spray - lak na vlasy
+586: half track - poloviční trať
+587: hammer - kladivo
+588: hamper - dárkový koš
+589: hand blower - ruční foukač
+590: hand-held computer - ruční počítač
+591: handkerchief - kapesník
+592: hard disc - pevný disk
+593: harmonica - harmonika
+594: harp - harfa
+595: harvester - kombajn
+596: hatchet - sekyrka
+597: holster - pouzdro
+598: home theater - domácí kino
+599: honeycomb - plástev
+600: hook - háček
+601: hoopskirt - obručí
+602: horizontal bar - vodorovná lišta
+603: horse cart - koňský povoz
+604: hourglass - přesýpací hodiny
+605: iPod - iPod
+606: iron - železo
+607: jack-o'-lantern - jack-o'-lantern
+608: jean - Jean
+609: jeep - džíp
+610: jersey - trikot
+611: jigsaw puzzle - skládačka
+612: jinrikisha - jinrikisha
+613: joystick - joystick
+614: kimono - kimono
+615: knee pad - kolenní podložka
+616: knot - uzel
+617: lab coat - laboratorní plášť
+618: ladle - naběračka
+619: lampshade - stínidlo
+620: laptop - notebook
+621: lawn mower - sekačka na trávu
+622: lens cap - krytka objektivu
+623: letter opener - otvírák na dopisy
+624: library - knihovna
+625: lifeboat - záchranný člun
+626: lighter - zapalovač
+627: limousine - limuzína
+628: liner - vložka
+629: lipstick - rtěnka
+630: Loafer - Povaleč
+631: lotion - pleťová voda
+632: loudspeaker - reproduktor
+633: loupe - lupa
+634: lumbermill - dřevorubec
+635: magnetic compass - buzola
+636: mailbag - poštovní taška
+637: mailbox - poštovní schránka
+638: maillot - maillot
+639: maillot - maillot
+640: manhole cover - poklop šachty
+641: maraca - maraca
+642: marimba - marimba
+643: mask - maska
+644: matchstick - zápalka
+645: maypole - májka
+646: maze - bludiště
+647: measuring cup - odměrka
+648: medicine chest - lékárnička
+649: megalith - megalit
+650: microphone - mikrofon
+651: microwave - mikrovlnná trouba
+652: military uniform - vojenská uniforma
+653: milk can - plechovka mléka
+654: minibus - minibus
+655: miniskirt - minisukně
+656: minivan - minivan
+657: missile - střela
+658: mitten - rukavice
+659: mixing bowl - mixovací nádoba
+660: mobile home - mobilní dům
+661: Model T - Model T
+662: modem - modem
+663: monastery - klášter
+664: monitor - monitor
+665: moped - moped
+666: mortar - minomet
+667: mortarboard - mortarboard
+668: mosque - mešita
+669: mosquito net - moskytiéra
+670: motor scooter - motorový skútr
+671: mountain bike - horské kolo
+672: mountain tent - horský stan
+673: mouse - myš
+674: mousetrap - past na myši
+675: moving van - stěhovací dodávka
+676: muzzle - čenich
+677: nail - hřebík
+678: neck brace - krční ortéza
+679: necklace - náhrdelník
+680: nipple - bradavku
+681: notebook - notebook
+682: obelisk - obelisk
+683: oboe - hoboj
+684: ocarina - okarína
+685: odometer - počítadlo kilometrů
+686: oil filter - olejový filtr
+687: organ - orgán
+688: oscilloscope - osciloskop
+689: overskirt - sukně
+690: oxcart - volský povoz
+691: oxygen mask - kyslíková maska
+692: packet - paket
+693: paddle - pádlo
+694: paddlewheel - pádlové kolo
+695: padlock - visací zámek
+696: paintbrush - štětec
+697: pajama - pyžamo
+698: palace - palác
+699: panpipe - panpipe
+700: paper towel - papírový ručník
+701: parachute - padák
+702: parallel bars - bradla
+703: park bench - lavička v parku
+704: parking meter - parkovací hodiny
+705: passenger car - osobní automobil
+706: patio - patio
+707: pay-phone - telefonní automat
+708: pedestal - podstavec
+709: pencil box - krabička na tužky
+710: pencil sharpener - ořezávátko
+711: perfume - parfém
+712: Petri dish - Petriho miska
+713: photocopier - kopírka
+714: pick - výběr
+715: pickelhaube - pickelhaube
+716: picket fence - laťkový plot
+717: pickup - vyzvednutí
+718: pier - molo
+719: piggy bank - prasátko
+720: pill bottle - lahvička na pilulky
+721: pillow - polštář
+722: ping-pong ball - pingpongový míček
+723: pinwheel - větrník
+724: pirate - pirát
+725: pitcher - džbán
+726: plane - rovina
+727: planetarium - planetárium
+728: plastic bag - plastový sáček
+729: plate rack - stojan na talíře
+730: plow - pluh
+731: plunger - píst
+732: Polaroid camera - Polaroidový fotoaparát
+733: pole - pól
+734: police van - policejní dodávka
+735: poncho - pončo
+736: pool table - kulečníkový stůl
+737: pop bottle - pop láhev
+738: pot - hrnec
+739: potter's wheel - hrnčířský kruh
+740: power drill - elektrická vrtačka
+741: prayer rug - modlitební kobereček
+742: printer - tiskárna
+743: prison - vězení
+744: projectile - projektil
+745: projector - projektor
+746: puck - puk
+747: punching bag - boxovací pytel
+748: purse - peněženka
+749: quill - brk
+750: quilt - deka
+751: racer - závodník
+752: racket - raketa
+753: radiator - chladič
+754: radio - rádio
+755: radio telescope - radioteleskop
+756: rain barrel - dešťový sud
+757: recreational vehicle - rekreační vozidlo
+758: reel - role
+759: reflex camera - zrcadlovka
+760: refrigerator - lednička
+761: remote control - dálkové ovládání
+762: restaurant - restaurace
+763: revolver - revolver
+764: rifle - puška
+765: rocking chair - houpací křeslo
+766: rotisserie - grilovačka
+767: rubber eraser - gumová guma
+768: rugby ball - ragbyový míč
+769: rule - pravidlo
+770: running shoe - běžecká bota
+771: safe - trezor
+772: safety pin - zavírací špendlík
+773: saltshaker - slánka
+774: sandal - sandál
+775: sarong - sarong
+776: sax - saxofon
+777: scabbard - pochva
+778: scale - měřítko
+779: school bus - školní autobus
+780: schooner - škuner
+781: scoreboard - výsledková tabulka
+782: screen - obrazovka
+783: screw - šroub
+784: screwdriver - šroubovák
+785: seat belt - bezpečnostní pás
+786: sewing machine - šicí stroj
+787: shield - štít
+788: shoe shop - obchod s obuví
+789: shoji - shoji
+790: shopping basket - nákupní košík
+791: shopping cart - nákupní vozík
+792: shovel - lopata
+793: shower cap - sprchová čepice
+794: shower curtain - sprchový závěs
+795: ski - lyže
+796: ski mask - lyžařská maska
+797: sleeping bag - spací pytel
+798: slide rule - logaritmické pravítko
+799: sliding door - posuvné dveře
+800: slot - slot
+801: snorkel - šnorchl
+802: snowmobile - sněžný skútr
+803: snowplow - sněžný pluh
+804: soap dispenser - dávkovač mýdla
+805: soccer ball - fotbalový míč
+806: sock - ponožka
+807: solar dish - solární parabola
+808: sombrero - sombrero
+809: soup bowl - polévková mísa
+810: space bar - mezerník
+811: space heater - prostorový ohřívač
+812: space shuttle - raketoplán
+813: spatula - špachtle
+814: speedboat - motorový člun
+815: spider web - pavučina
+816: spindle - vřeteno
+817: sports car - sportovní vůz
+818: spotlight - reflektor
+819: stage - fáze
+820: steam locomotive - parní lokomotiva
+821: steel arch bridge - ocelový obloukový most
+822: steel drum - ocelový buben
+823: stethoscope - stetoskop
+824: stole - ukradl
+825: stone wall - kamenná zeď
+826: stopwatch - stopky
+827: stove - sporák
+828: strainer - filtr
+829: streetcar - tramvaj
+830: stretcher - nosítka
+831: studio couch - studio gauč
+832: stupa - stupa
+833: submarine - ponorka
+834: suit - oblek
+835: sundial - sluneční hodiny
+836: sunglass - sluneční brýle
+837: sunglasses - sluneční brýle
+838: sunscreen - opalovací krém
+839: suspension bridge - visutý most
+840: swab - tampon
+841: sweatshirt - mikina
+842: swimming trunks - pánské plavky
+843: swing - houpačka
+844: switch - přepínač
+845: syringe - stříkačka
+846: table lamp - stolní lampa
+847: tank - nádrž
+848: tape player - páskový přehrávač
+849: teapot - čajník
+850: teddy - medvídek
+851: television - televize
+852: tennis ball - tenisový míček
+853: thatch - kštice
+854: theater curtain - divadelní opona
+855: thimble - náprstek
+856: thresher - mlátička
+857: throne - trůn
+858: tile roof - tašková střecha
+859: toaster - toustovač
+860: tobacco shop - obchod s tabákem
+861: toilet seat - záchodové sedátko
+862: torch - pochodeň
+863: totem pole - totem
+864: tow truck - odtahový vůz
+865: toyshop - hračkářství
+866: tractor - traktor
+867: trailer truck - přívěs
+868: tray - zásobník
+869: trench coat - trenčkot
+870: tricycle - tříkolka
+871: trimaran - trimaran
+872: tripod - stativ
+873: triumphal arch - vítězný oblouk
+874: trolleybus - trolejbus
+875: trombone - pozoun
+876: tub - vana
+877: turnstile - turniket
+878: typewriter keyboard - klávesnice psacího stroje
+879: umbrella - deštník
+880: unicycle - jednokolka
+881: upright - sloupek
+882: vacuum - vakuum
+883: vase - váza
+884: vault - klenba
+885: velvet - samet
+886: vending machine - prodejní automat
+887: vestment - roucho
+888: viaduct - viadukt
+889: violin - housle
+890: volleyball - volejbal
+891: waffle iron - vaflovač
+892: wall clock - nástěnné hodiny
+893: wallet - peněženka
+894: wardrobe - šatník
+895: warplane - válečné letadlo
+896: washbasin - umývadlo
+897: washer - podložka
+898: water bottle - láhev s vodou
+899: water jug - džbán na vodu
+900: water tower - vodárenská věž
+901: whiskey jug - džbán na whisky
+902: whistle - pískat
+903: wig - paruka
+904: window screen - okenní clona
+905: window shade - okenní stínítko
+906: Windsor tie - Windsorská kravata
+907: wine bottle - láhev vína
+908: wing - křídlo
+909: wok - wok
+910: wooden spoon - vařečka
+911: wool - vlna
+912: worm fence - červový plot
+913: wreck - vrak
+914: yawl - jola
+915: yurt - jurta
+916: web site - webové stránky
+917: comic book - komiksu
+918: crossword puzzle - křížovka
+919: street sign - znamení ulice
+920: traffic light - semafor
+921: book jacket - přebal
+922: menu - menu
+923: plate - talíř
+924: guacamole - guacamole
+925: consomme - consommé
+926: hot pot - horký hrnec
+927: trifle - maličkost
+928: ice cream - zmrzlina
+929: ice lolly - nanuk
+930: French loaf - Francouzský bochník
+931: bagel - bagel
+932: pretzel - preclík
+933: cheeseburger - cheeseburger
+934: hotdog - hotdog
+935: mashed potato - bramborová kaše
+936: head cabbage - hlávkové zelí
+937: broccoli - brokolice
+938: cauliflower - květák
+939: zucchini - cuketa
+940: spaghetti squash - špagetová dýně
+941: acorn squash - žalud tykve
+942: butternut squash - máslová dýně
+943: cucumber - okurka
+944: artichoke - artyčok
+945: bell pepper - paprika
+946: cardoon - karton
+947: mushroom - houba
+948: Granny Smith - babička Smithová
+949: strawberry - jahoda
+950: orange - pomerančový
+951: lemon - citrón
+952: fig - Obr
+953: pineapple - ananas
+954: banana - banán
+955: jackfruit - jackfruit
+956: custard apple - pudinkové jablko
+957: pomegranate - granátové jablko
+958: hay - seno
+959: carbonara - carbonara
+960: chocolate sauce - čokoládová omáčka
+961: dough - těsto
+962: meat loaf - sekaná
+963: pizza - pizza
+964: potpie - potpie
+965: burrito - burrito
+966: red wine - červené víno
+967: espresso - espresso
+968: cup - pohár
+969: eggnog - vaječný koňak
+970: alp - horská pastvina
+971: bubble - bublina
+972: cliff - útes
+973: coral reef - korálový útes
+974: geyser - gejzír
+975: lakeside - u jezera
+976: promontory - mys
+977: sandbar - pískoviště
+978: seashore - pobřeží
+979: valley - údolí
+980: volcano - sopka
+981: ballplayer - míčový hráč
+982: groom - ženich
+983: scuba diver - potápěč
+984: rapeseed - řepkový
+985: daisy - sedmikráska
+986: yellow lady's slipper - žluté dámské pantofle
+987: corn - kukuřice
+988: acorn - žalud
+989: hip - kyčle
+990: buckeye - buckeye
+991: coral fungus - korálová houba
+992: agaric - agaric
+993: gyromitra - gyromitra
+994: stinkhorn - stinkhorn
+995: earthstar - Earthstar
+996: hen-of-the-woods - slepice
+997: bolete - hřib
+998: ear - ucho
+999: toilet tissue - toaletní papír
