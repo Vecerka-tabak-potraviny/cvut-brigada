@@ -4,12 +4,12 @@
 3: tiger shark (3/38) 3.! není tiger shark
 4: hammerhead (2/43) fine
 5: electric ray (1/32) je to stingray
-6: stingray (3/40)
-7: cock (1/39)
-9: ostrich (1/42)
-11: goldfinch (2/44)
-12: house finch (5/52)
-15: robin (2/45)
+6: stingray (3/40)fine
+7: cock (1/39)fine
+9: ostrich (1/42)ok
+11: goldfinch (2/44)ok
+12: house finch (5/52) 2/5 correct, other resolved (!american robin)
+15: robin (2/45) problém American robin (česky drozd stěhovavý) je to robin nebo není?
 16: bulbul (1/49)
 20: water ouzel (6/36)
 21: kite (19/39)
