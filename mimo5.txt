@@ -12,111 +12,112 @@
 15: robin (2/45) one go out
 16: bulbul (1/49)fine
 20: water ouzel (6/36) šoupálek, střízlík (resolved)
-21: kite (19/39) 6-káně
-23: vulture (2/45)
-26: common newt (1/44)
-27: eft (1/39)
-28: spotted salamander (1/54)
-29: axolotl (3/52)
-30: bullfrog (4/41)
-31: tree frog (2/42)
-32: tailed frog (2/12)
-33: loggerhead (2/33)
-34: leatherback turtle (2/23)
-35: mud turtle (1/17)
-36: terrapin (1/53)
-38: banded gecko (5/34)
-39: common iguana (3/44)
-40: American chameleon (15/49)
-41: whiptail (2/36)
-42: agama (2/21)
-43: frilled lizard (13/47)
-44: alligator lizard (15/45)
-45: Gila monster (2/37)
-46: green lizard (2/25)
-47: African chameleon (2/31)
-48: Komodo dragon (2/50)
-49: African crocodile (6/32)
-51: triceratops (1/46)
-52: thunder snake (15/44)
-53: ringneck snake (3/45)
-54: hognose snake (6/38)
-55: green snake (2/32)
-56: king snake (9/48)
-57: garter snake (2/57)
-58: water snake (3/48)
-59: vine snake (9/46)
-60: night snake (17/35)
-61: boa constrictor (11/58)
-62: rock python (5/50)
-63: Indian cobra (9/48)
-64: green mamba (5/47)
-65: sea snake (1/21)
-66: horned viper (4/35)
-67: diamondback (4/49)
-68: sidewinder (14/48)
-69: trilobite (1/44)
-70: harvestman (2/45)
-71: scorpion (3/48)
-75: black widow (1/23)
-79: centipede (6/46)
-81: ptarmigan (3/42)
-82: ruffed grouse (1/51)
-83: prairie chicken (2/47)
-85: quail (2/48)
-86: partridge (2/46)
-87: African grey (1/38)
-88: macaw (1/48)
-89: sulphur-crested cockatoo (1/44)
-91: coucal (2/48)
-93: hornbill (4/43)
-94: hummingbird (1/46)
-97: drake (18/26)
-99: goose (4/39)
-102: echidna (1/49)
-103: platypus (4/42)
-104: wallaby (3/35)
-105: koala (3/44)
-106: wombat (4/34)
-107: jellyfish (5/43)
-108: sea anemone (2/26)
-109: brain coral (1/22)
-110: flatworm (5/17)
-111: nematode (13/47)
-112: conch (8/45)
-113: snail (4/47)
-114: slug (12/45)
-115: sea slug (4/32)
-116: chiton (4/45)
-117: chambered nautilus (3/42)
-118: Dungeness crab (1/34)
-119: rock crab (2/42)
-121: king crab (4/29)
-123: spiny lobster (6/42)
-124: crayfish (6/42)
-125: hermit crab (4/53)
-126: isopod (9/43)
-127: white stork (1/42)
-131: little blue heron (2/30)
-133: bittern (1/39)
-134: crane (4/39)
-136: European gallinule (1/29)
-138: bustard (6/47)
-139: ruddy turnstone (1/30)
-140: red-backed sandpiper (1/24)
-141: redshank (1/22)
-144: pelican (1/31)
-146: albatross (1/26)
-147: grey whale (1/40)
-148: killer whale (3/56)
-149: dugong (1/41)
+21: kite (19/39) káňata, raroši a jiná havěť (totální nepořádek) +- solved
+23: vulture (2/45) fine
+26: common newt (1/44) fine
+27: eft (1/39) fine (but newt x smooth newt is not ideal)
+28: spotted salamander (1/54) nobody knows what's in that picture (fine?!)
+29: axolotl (3/52) fine
+30: bullfrog (4/41) 1-volavka s žábou v zobáku; other fine
+31: tree frog (2/42) fine
+32: tailed frog (2/12) 1-nějaká jiná žába - je tailed frog ideální!?
+33: loggerhead (2/33)fine
+34: leatherback turtle (2/23)fine
+35: mud turtle (1/17)ok
+36: terrapin (1/53)ok
+38: banded gecko (5/34)fine
+39: common iguana (3/44)2-leguán mořský (a nějací krabi k tomu) solved
+40: American chameleon (15/49) one was grasshopper, others fine
+41: whiptail (2/36)fine
+42: agama (2/21) fine
+43: frilled lizard (13/47)fine 
+44: alligator lizard (15/45) one was gila monster other fine
+45: Gila monster (2/37)ok
+46: green lizard (2/25) 1-was green mamba, 2- idk but not European green lizard
+47: African chameleon (2/31)ok
+48: Komodo dragon (2/50)ok
+49: African crocodile (6/32) 1-statues of gavial (others fine)
+51: triceratops (1/46)ok
+52: thunder snake (15/44) total mess (worm snake / thunder snake / official worm snake) and other snakes as well - i give -1 to whole original 52 class
+53: ringneck snake (3/45)1-hognose (?) other fine
+54: hognose snake (6/38)fine (but i don't know why eastern?)
+55: green snake (2/32) 1 - boa constrictor 2 - fine
+56: king snake (9/48) fine
+57: garter snake (2/57)ok
+58: water snake (3/48)1-class 68, others fine
+59: vine snake (9/46) 00001108.JPEG a 00014252.JPEG (téměř identické obrázky) others fine
+60: night snake (17/35) spoustu hadů do třídy nepatří (ploskolebec, užovky, dvojhlaví heterodon 00041300 problém sám o sobě aj.) solved
+61: boa constrictor (11/58) asi 8x krajta zelená (nemá vlastní class) solved
+62: rock python (5/50)fine
+63: Indian cobra (9/48) jedna mamba černá a asi užovka, other solved
+64: green mamba (5/47)ok
+65: sea snake (1/21)ok
+66: horned viper (4/35)ok
+67: diamondback (4/49)ok
+68: sidewinder (14/48)ILSVRC2012_val_00033459.JPEG (class 66) je stejené jako ILSVRC2012_val_00006480.JPEG jinak ok
+69: trilobite (1/44)ok
+70: harvestman (2/45) HOMONYMUM ale jinak ok
+71: scorpion (3/48)ok
+75: black widow (1/23)ok
+79: centipede (6/46) something is maybe milipede? but ok
+81: ptarmigan (3/42)ok
+82: ruffed grouse (1/51)ok
+83: prairie chicken (2/47)ok
+85: quail (2/48)ok
+86: partridge (2/46)ok
+87: African grey (1/38)ok
+88: macaw (1/48)ok
+89: sulphur-crested cockatoo (1/44)ok
+91: coucal (2/48)ok
+93: hornbill (4/43)ok
+94: hummingbird (1/46)ok
+97: drake (18/26)00006399 - feamle duck overall lots of different ducks are there
+99: goose (4/39)ok
+102: echidna (1/49)ok
+103: platypus (4/42)ok
+104: wallaby (3/35)ok
+105: koala (3/44)ok
+106: wombat (4/34)2/4 were wombats (solved)
+107: jellyfish (5/43)ok
+108: sea anemone (2/26) coral and clownfish
+109: brain coral (1/22) ok
+110: flatworm (5/17)ok
+111: nematode (13/47)ok
+112: conch (8/45)ok
+113: snail (4/47)ok
+114: slug (12/45)ok
+115: sea slug (4/32) jedno byla ploštěnka (teda myslím) others sloved
+116: chiton (4/45)ok
+117: chambered nautilus (3/42)ok
+118: Dungeness crab (1/34)ok
+119: rock crab (2/42)ok
+121: king crab (4/29)1-was american lobster (other ok)
+123: spiny lobster (6/42) (two were crayfish) otehr ok
+124: crayfish (6/42) one was fiddler crab; one spiny lobster; other ok
+125: hermit crab (4/53)ok
+126: isopod (9/43)ok
+127: white stork (1/42)ok
+131: little blue heron (2/30) one was gray heron
+133: bittern (1/39)ok
+134: crane (4/39)ok
+136: European gallinule (1/29)ok
+138: bustard (6/47)ok
+139: ruddy turnstone (1/30)ok
+140: red-backed sandpiper (1/24)ok
+141: redshank (1/22)ok
+144: pelican (1/31) albatros
+146: albatross (1/26) ok
+147: grey whale (1/40)tiger shark
+148: killer whale (3/56)all of them grey whale
+149: dugong (1/41)ok
 150: sea lion (3/44)
+here starts dog breads, one word dog breads are usually HOMONYMUM -------------------------
 151: Chihuahua (2/34)
 152: Japanese spaniel (1/38)
 153: Maltese dog (4/48)
 154: Pekinese (2/41)
 156: Blenheim spaniel (8/42)
-157: papillon (2/46)
+157: papillon (2/46) HOMONYMUM
 158: toy terrier (1/34)
 159: Rhodesian ridgeback (1/45)
 160: Afghan hound (7/46)
@@ -188,7 +189,7 @@
 239: Bernese mountain dog (5/47)
 240: Appenzeller (26/27)
 241: EntleBucher (2/58)
-242: boxer (3/31)
+242: boxer (3/31) HOMONYMUM
 244: Tibetan mastiff (3/33)
 245: French bulldog (1/37)
 246: Great Dane (11/25)
@@ -197,7 +198,7 @@
 252: affenpinscher (1/38)
 254: pug (2/36)
 255: Leonberg (2/32)
-256: Newfoundland (11/44)
+256: Newfoundland (11/44) 
 257: Great Pyrenees (2/30)
 259: Pomeranian (1/35)
 260: chow (3/27)
@@ -208,6 +209,7 @@
 266: miniature poodle (1/16)
 267: standard poodle (12/56)
 268: Mexican hairless (2/38)
+end of dog breads -----------------------------------------
 269: timber wolf (4/59)
 270: white wolf (1/37)
 271: red wolf (8/28)
