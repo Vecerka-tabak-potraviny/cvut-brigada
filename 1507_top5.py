@@ -14,7 +14,7 @@ from PIL import Image
 from transformers import CLIPModel, CLIPProcessor
 
 MODEL_NAME = "openai/clip-vit-base-patch32"
-LABELS_PATH = "labels.txt"
+LABELS_PATH = "zvlastni.txt"
 JM_PATH = "jm.json"
 REANNOTATION_PATH = "reanotace.jsonl"
 IMAGENET_VAL_DIR = "/mnt/data/Public_datasets/imagenet/imagenet_pytorch/val"
