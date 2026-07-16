@@ -8,7 +8,7 @@ from PIL import Image
 from transformers import CLIPModel, CLIPProcessor
 
 MODEL_NAME = "openai/clip-vit-base-patch32"
-LABELS_PATH = "mod_classes2.txt"
+LABELS_PATH = "motyle.txt"
 
 
 def load_labels(path: str = LABELS_PATH) -> list[tuple[int, str]]:
