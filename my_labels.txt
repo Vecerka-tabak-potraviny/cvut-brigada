@@ -146,7 +146,7 @@
 145: king penguin
 146: albatross
 147: grey whale
-148: killer whale
+148: orca
 149: dugong
 150: sea lion
 151: Chihuahua (dog breed)
@@ -342,7 +342,7 @@
 342: wild boar
 343: warthog
 344: hippopotamus
-345: ox
+345: bullock
 346: water buffalo
 347: bison
 348: ram (adult male sheep)
@@ -683,7 +683,7 @@
 687: pipe organ
 688: oscilloscope
 689: overskirt
-690: bullock cart
+690: ox cart
 691: oxygen mask
 692: product packet / packaging
 693: paddle
