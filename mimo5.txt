@@ -292,18 +292,18 @@ end of insect ---------------------------------
 372: baboon (2/53)ok
 373: macaque (2/55)ok
 374: langur (5/44)bad quality of images
-375: colobus (6/51)
-376: proboscis monkey (1/44)
-377: marmoset (5/49)
-378: capuchin (7/55)
-379: howler monkey (5/54)
-380: titi (29/32)
-381: spider monkey (1/30)
-382: squirrel monkey (1/73)
-383: Madagascar cat (8/44)
-385: Indian elephant (2/36)
-386: African elephant (1/10)
-387: lesser panda (1/48)
+375: colobus (6/51) problems solved
+376: proboscis monkey (1/44)ok
+377: marmoset (5/49)ok
+378: capuchin (7/55)ok solved
+379: howler monkey (5/54)ok
+380: titi (29/32) looks like a suspicious mess to me (not fine)
+381: spider monkey (1/30)ok
+382: squirrel monkey (1/73)ok
+383: Madagascar cat (8/44)ok
+385: Indian elephant (2/36)ok
+386: African elephant (1/10)zebra
+387: lesser panda (1/48)ok
 389: barracouta (10/16)
 390: eel (8/29)
 392: rock beauty (9/9)
