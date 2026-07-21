@@ -273,25 +273,25 @@ end of insect ---------------------------------
 348: ram (2/30)ok
 349: bighorn (1/56)ok
 350: ibex (1/33)ok       ------ 16.07.
-352: impala (2/51)
-353: gazelle (1/31)
-354: Arabian camel (1/16)
-355: llama (3/37)
-357: mink (1/36)
-359: black-footed ferret (5/27)
-360: otter (3/43)
-363: armadillo (2/40)
-364: three-toed sloth (1/48)
-365: orangutan (1/46)
-366: gorilla (2/48)
-367: chimpanzee (2/49)
-368: gibbon (3/46)
-369: siamang (1/39)
-370: guenon (3/38)
-371: patas (32/34)
-372: baboon (2/53)
-373: macaque (2/55)
-374: langur (5/44)
+352: impala (2/51)ok
+353: gazelle (1/31)ok
+354: Arabian camel (1/16)ok
+355: llama (3/37)ok
+357: mink (1/36)ok
+359: black-footed ferret (5/27)ok
+360: otter (3/43)ok
+363: armadillo (2/40)ok
+364: three-toed sloth (1/48)ok
+365: orangutan (1/46)ok
+366: gorilla (2/48)ok
+367: chimpanzee (2/49)ok
+368: gibbon (3/46)ok
+369: siamang (1/39)ok
+370: guenon (3/38)ok
+371: patas (32/34)not ok (something solved)
+372: baboon (2/53)ok
+373: macaque (2/55)ok
+374: langur (5/44)bad quality of images
 375: colobus (6/51)
 376: proboscis monkey (1/44)
 377: marmoset (5/49)
