@@ -1,0 +1,82 @@
+41: desert grassland whiptail lizard -> whiptail lizard
+43: frilled-necked lizard -> frilled dragon (Chlamydosaurus)
+48: Komodo dragon -> Komodo dragon (Varanus komodoensis)
+54: eastern hog-nosed snake -> hognose snake
+57: garter snake -> common garter snake
+67: eastern diamondback rattlesnake -> diamondback rattlesnake
+77: wolf spider -> wolf spider (lycosidae)
+78: tick -> tick (Ixodida)
+79: centipede -> milipede
+82: ruffed grouse -> ruffed grouse (Bonasa umbellus)
+109: brain coral -> brain maze coral
+117: chambered nautilus -> pearly nautilus
+121: red king crab -> Alaskan king crab
+124: crayfish -> Crayfish / Crawfish / Crawdad
+136: common gallinule -> swamphen
+157: Papillon -> Papillon (dog breed)
+242: Boxer -> Boxer (dog breed)
+270: Alaskan tundra wolf -> arctic tundra wolf
+271: red wolf or maned wolf -> red wolf
+282: a cat having a striped coat -> tiger cat
+290: jaguar -> jaguar (cat)
+302: ground beetle -> ground beetle (Carabidae)
+312: cricket insect -> cricket insect (Tettigoniidae katydid)
+318: lacewing -> green lacewing
+331: hare -> hare (Lepus)
+338: guinea pig -> guinea pig (Cavia porcellus)
+339: common sorrel horse -> brown horse
+343: warthog -> warthog (Phacochoerus africanus)
+344: hippopotamus -> hippo (Hippopotamus amphibius)
+360: otter -> otter (Lutrinae)
+361: skunk -> skunk (Mephitis)
+368: gibbon -> white-handed gibbon (Hylobates lar)
+373: macaque -> macaque (Macaca)
+378: white-headed capuchin -> white-headed capuchin (Cebus capucinus)
+389: snoek fish -> pike
+395: gar fish -> gar (Lepisosteidae)
+411: apron -> pinafore (apron)
+414: backpack -> packsack
+417: balloon -> hot-air balloon
+419: Band-Aid -> sticking-plaster
+429: baseball -> baseball (ball)
+435: bathtub -> tub
+454: library -> library or bookshop
+457: bow tie -> bowtie
+466: high-speed train -> bullet train
+467: butcher shop -> butcher shop or meat market
+480: automated teller machine -> ATM
+482: cassete player -> tape player
+494: bell or wind chime -> chime, bell
+513: cornet trumpet -> trumpet
+517: construction crane -> crane (thing)
+569: garbage truck -> garbage truck (bin lorry)
+576: gondola -> gondola (boat)
+582: grocery store -> grocery or food market
+616: knot -> rope (knot)
+617: lab coat -> laboratory coat
+621: lawn mower -> lawn mower (mower)
+638: swimsuit -> one-piece bathing suit
+649: megalith -> megalithic structure
+678: neck brace -> medical cervical collar
+690: bullock cart -> ox cart
+706: patio -> patio (terrace)
+713: printer -> all-in-one printer
+725: pitcher -> jug or pitcher
+763: revolver -> pistol (revolver)
+770: sneaker -> sneakers (trainers)
+829: tram -> tram (tramcar)
+841: sweatshirt -> sweatshirt or hoody
+850: teddy bear -> soft toy bear
+853: thatched roof -> thatch
+862: torch -> torch (flambeau)
+885: velvet fabric -> velvet material
+909: wok -> wok pan
+911: wool -> woolen
+919: traffic or street sign -> traffic (road) or street signage
+928: ice cream -> ice-cream
+930: baguette -> bread
+944: artichoke -> artichoke (globe artichoke)
+950: orange -> sweet orange
+956: cherimoya (custard apple) -> sugar apple (custard apple)
+970: mountain -> mountain (alp)
+975: shore -> seashore or lakeside
